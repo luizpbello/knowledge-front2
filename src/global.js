@@ -1,6 +1,7 @@
 import Vue from'vue'
 
 export const userKey = '__luizkonowledger__user__'
+//export const baseApiUrl = 'http://localhost:3000'
 export const baseApiUrl = 'https://knowledge-backend2.herokuapp.com'
 
 export function showError(e){
